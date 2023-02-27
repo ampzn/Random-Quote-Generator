@@ -9,5 +9,6 @@ The app's design is simple and user-friendly, making it easy for users to access
   <img width="350" height="350" src="https://user-images.githubusercontent.com/113802361/220520355-bd5e0e1e-f625-4559-be7c-b2228ac98fc7.png">
 </p>
 
-Preview of the App GUI - made with Tkinter
+<p align="center">Preview of the App GUI - made with Tkinter</p>
+
 
